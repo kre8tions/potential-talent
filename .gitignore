@@ -1,0 +1,27 @@
+.*.swp
+*.o
+*.bin
+*.vec
+*.bc
+.DS_Store
+data
+fastText-0.9.2/
+result
+website/node_modules/
+package-lock.json
+node_modules/
+*.html
+*.pdf
+0.21.0
+0.21.0'
+0.39.0
+Dataset for Potential Talents.xlsx
+fastText-0.9.2.zip
+get-pip.py
+import sys.py
+Pipfile
+Pipfile.lock
+potential-talents - Aspiring human resources - seeking human resources.csv
+tirMlkapx4XpMRlG_Orignal.ipynb
+.vscode/settings.json
+glove/glove.840B.300d.txt
